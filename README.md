@@ -5,7 +5,7 @@ Divididos em:
 - Estruturas de Dados 
 - SQL
 
-Thiago Ruy, aluno do curso de Ciência da Computação, pela Unifeg 
+Thiago Ruy, aluno do curso de Ciência da Computação, na Unifeg 
 
 ## contato
 
